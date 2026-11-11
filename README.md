@@ -1,4 +1,20 @@
-Hello! My name is @Hobson37
-This is a collection of projects that I have completed 
-I am currently pursuing a Bachelor's degree in Cybersecurity and have attained an Associates of Applied Science degree in computer programming
-These projects are HTML based sites and showcases my skills with HTML, PHP, Javascript, as well as maintaining a localized database using XAMPP Apache server and myql to store data
+Hello! I'm Hobson37.
+
+I hold an Associate of Applied Science degree in Computer Programming from Lone Star College.
+
+My technical interests include IT support, software development, database management, and web technologies.
+
+My technical skills include:
+
+- HTML and CSS
+- JavaScript
+- Python
+- SQL and database management
+- PHP
+- GitHub
+
+This repository contains programming projects I've completed, including website development and an inventory management project.
+
+I'm continuing to develop my technical skills and remain interested in expanding my education in cybersecurity.
+
+I'm particularly interested in opportunities involving IT support, help desk services, technical troubleshooting, and junior web development.
